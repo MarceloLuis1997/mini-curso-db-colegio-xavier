@@ -9,11 +9,11 @@ Scripts SQL e materiais utilizados no Mini Curso de Banco de Dados do Colégio X
 - Diagramas conceitual e lógico disponíveis na pasta `diagrams`
 
 ## :wrench: Ferramentas utilizadas
-https://sqliteonline.com/ -> Editor SQL online
+Editor SQL online -> https://sqliteonline.com/
 
-https://miro.com/pt/ -> Modelo Conceitual
+Modelo Conceitual -> https://miro.com/pt/
 
-https://dbdiagram.io/ -> Modelo Lógico
+Modelo Lógico -> https://dbdiagram.io/
 
 ## :railway_track: Trilha de Desenvolvimento
 Trilha Alura -> https://www.alura.com.br/formacao-programacao
@@ -22,4 +22,4 @@ Lógica de Programação com HTML e JavaScript -> https://www.alura.com.br/curso
 
 Curso SQL Completo -> https://www.youtube.com/watch?v=rX2I7OjLqWE
 
--> Trilhas de Desenvolvimento para Programação -> https://roadmap.sh/
+Trilhas de Desenvolvimento para Programação -> https://roadmap.sh/
