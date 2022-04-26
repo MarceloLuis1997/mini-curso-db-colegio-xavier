@@ -16,4 +16,10 @@ https://miro.com/pt/ -> Modelo Conceitual
 https://dbdiagram.io/ -> Modelo Lógico
 
 ## :railway_track: Trilha de Desenvolvimento
-...
+Trilha Alura -> https://www.alura.com.br/formacao-programacao
+
+Lógica de Programação com HTML e JavaScript -> https://www.alura.com.br/curso-online-logica-programacao-javascript-html
+
+Curso SQL Completo -> https://www.youtube.com/watch?v=rX2I7OjLqWE
+
+-> Trilhas de Desenvolvimento para Programação -> https://roadmap.sh/

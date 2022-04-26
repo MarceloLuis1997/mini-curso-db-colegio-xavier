@@ -116,6 +116,14 @@ INSERT INTO artistas (nome,genero,popularidade,quantidade_seguidores,data_cadast
   '2022-02-14 10:00:00'
 );
 
+INSERT INTO artistas (nome,genero,popularidade,quantidade_seguidores,data_cadastro) VALUES (
+  'Red Hot Chili Peppers',
+  'Rock',
+  '7',
+  '768450',
+  '2022-03-01 10:40:00'
+);
+
 INSERT INTO festivais (nome,local,data) VALUES (
   'Rock in Rio 2022',
   'Rio de Janeiro, Brasil',
