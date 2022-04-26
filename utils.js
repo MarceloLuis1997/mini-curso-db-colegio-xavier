@@ -46,4 +46,4 @@ let songList = [
     'Damage, Inc'
 ];
 
-songListToInsert(album, songList);
+console.log(songListToInsert(album, songList));
